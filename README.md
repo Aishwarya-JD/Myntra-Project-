@@ -30,20 +30,6 @@ The objective was to clean, transform, and analyze the data using Microsoft Exce
 
 ---
 
-## 🛠️ Tools & Technologies
-
-### Analytics Tools
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=mexcel&logoColor=white
-
-![Power Query](https://img.shields.io/badge/Power_Query-r-the-badge
-
-![Pivot Tables](https://img.shields.ioles-005A9C?style=for-the-badge
-
-![Data Cleaning](https://img.shields.io/badge/Datastyle=for-the-badge
-
----
-
 ## 📊 Key Analysis Performed
 
 ✅ Data Cleaning & Transformation
