@@ -10,7 +10,7 @@ Transforming E-Commerce Data into Actionable Insights 📊
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview:
 
 This project analyzes Myntra's product catalog to uncover insights related to pricing, discounts, product categories, customer ratings, and brand performance.
 
@@ -30,7 +30,7 @@ The objective was to clean, transform, and analyze the data using Microsoft Exce
 
 ---
 
-## 📊 Key Analysis Performed
+## 📊 Key Analysis Performed:
 
 ✅ Data Cleaning & Transformation
 
@@ -50,7 +50,7 @@ The objective was to clean, transform, and analyze the data using Microsoft Exce
 
 ---
 
-## 📈 Dashboard Insights
+## 📈 Dashboard Insights:
 
 ### Pricing Analysis
 - Compared marked prices and discounted prices.
@@ -74,7 +74,7 @@ The objective was to clean, transform, and analyze the data using Microsoft Exce
 
 ---
 
-## 🎯 Business Questions Solved
+## 🎯 Business Questions Solved:
 
 - Which brands offer the highest discounts?
 - Which product categories dominate the platform?
@@ -83,13 +83,25 @@ The objective was to clean, transform, and analyze the data using Microsoft Exce
 - How does discounting impact customer ratings?
 
 ---
+## 📷 Dashboard Preview:
 
-## 📂 Project Structure
+<img width="1777" height="847" alt="Myntra Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/53a13911-b1c3-4aef-a63e-27af9c42e92d" />
 
-```text
-Myntra-Product-Analysis/
-│
-├── myntra_project.xlsx
-├── Dashboard.png
-├── README.md
-└── Insights_Report.pdf
+---
+## 👨‍💻 Author
+
+**Aishwarya Jayant Dixit Aspiring Data Analyst**
+
+**Skills:** Excel Power BI  Data Visualization Business Analytics
+
+**🔗 LinkedIn:** www.linkedin.com/in/aishwarya-jayant-dixit-399b56211
+
+**🔗 GitHub:** https://github.com/Aishwarya-JD/Aishwarya-JD.git
+
+⭐ Support If you found this project helpful, please consider:
+
+⭐ Starring the repository
+
+🍴 Forking the project
+
+💬 Sharing your feedback
